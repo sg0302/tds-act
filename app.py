@@ -2,7 +2,7 @@ import streamlit as st
 title = "Largest Number Among the 3 numbers"
 st.set_page_config(page_title=title)
 
-st.title('Largest Number Finder')
+st.title('Largest Number from three')
 
 x = st.number_input('Enter first number')
 y = st.number_input('Enter second number')
